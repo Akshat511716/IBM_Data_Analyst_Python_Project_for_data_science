@@ -1,1 +1,1 @@
-# IBM_Data_Analyst_Python_Project_for_data_science
+# IBM Data Analyst Certificate Python Project for Data Science
